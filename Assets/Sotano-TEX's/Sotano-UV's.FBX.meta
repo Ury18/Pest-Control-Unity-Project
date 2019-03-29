@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: cd8d46cc9f4ab8a42a76a22fc8c0911d
+timeCreated: 1510167888
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Caja1
+    100002: Caja2
+    100004: Caldera
+    100006: Conserva1
+    100008: Conserva2
+    100010: Cylinder009
+    100012: Escaleras
+    100014: Estanteria
+    100016: Mesa
+    100018: MuroEscaleras
+    100020: Puerta
+    100022: //RootNode
+    100024: techo
+    100026: ventanilla
+    400000: Caja1
+    400002: Caja2
+    400004: Caldera
+    400006: Conserva1
+    400008: Conserva2
+    400010: Cylinder009
+    400012: Escaleras
+    400014: Estanteria
+    400016: Mesa
+    400018: MuroEscaleras
+    400020: Puerta
+    400022: //RootNode
+    400024: techo
+    400026: ventanilla
+    2300000: Caja1
+    2300002: Caja2
+    2300004: Caldera
+    2300006: Conserva1
+    2300008: Conserva2
+    2300010: Cylinder009
+    2300012: Escaleras
+    2300014: Estanteria
+    2300016: Mesa
+    2300018: MuroEscaleras
+    2300020: Puerta
+    2300022: techo
+    2300024: ventanilla
+    3300000: Caja1
+    3300002: Caja2
+    3300004: Caldera
+    3300006: Conserva1
+    3300008: Conserva2
+    3300010: Cylinder009
+    3300012: Escaleras
+    3300014: Estanteria
+    3300016: Mesa
+    3300018: MuroEscaleras
+    3300020: Puerta
+    3300022: techo
+    3300024: ventanilla
+    4300000: Estanteria
+    4300002: ventanilla
+    4300004: Caja2
+    4300006: Caja1
+    4300008: Caldera
+    4300010: MuroEscaleras
+    4300012: Mesa
+    4300014: Conserva1
+    4300016: Cylinder009
+    4300018: techo
+    4300020: Puerta
+    4300022: Escaleras
+    4300024: Conserva2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
